@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/Users/jungahshin/PycharmProjects/yoon/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
@@ -5,4 +6,15 @@ import sys
 from pip._internal.cli.main import main
 if __name__ == '__main__':
     sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+=======
+#!/Users/sinjeong-yun/PycharmProjects/JUDY/venv/bin/python
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from pip._internal.cli.main import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+>>>>>>> dbf38e18bdfbfc4b9fc7a90ef1ccd0a0b536cf82
     sys.exit(main())
