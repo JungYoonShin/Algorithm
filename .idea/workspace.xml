@@ -10,7 +10,36 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e778d769-5083-4f00-aaa2-aea11089ced5" name="Default Changelist" comment="" />
+    <list default="true" id="e778d769-5083-4f00-aaa2-aea11089ced5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10430.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10871.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10950.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1330.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14681.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15552.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2438.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2439.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2588.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2739.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2741.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2742.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2884.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8393.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9498.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yoon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10171.py" beforeDir="false" afterPath="$PROJECT_DIR$/10171.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10172.py" beforeDir="false" afterPath="$PROJECT_DIR$/10172.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10718.py" beforeDir="false" afterPath="$PROJECT_DIR$/10718.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +66,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="2557" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
+  <component name="RunManager" selected="Python.test">
+    <configuration name="1001" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -49,6 +97,69 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1008.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10998" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10998.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2438" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2438.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2557" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../Python-practice/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2557.py" />
@@ -60,9 +171,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2741" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2741.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1001" />
+      <item itemvalue="Python.2557" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.2438" />
+      <item itemvalue="Python.2741" />
+      <item itemvalue="Python.10998" />
+      <item itemvalue="Python.1008" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2557" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1008" />
+        <item itemvalue="Python.10998" />
+        <item itemvalue="Python.2741" />
+        <item itemvalue="Python.2438" />
       </list>
     </recent_temporary>
   </component>
@@ -90,5 +256,77 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="65" key="#2557" timestamp="1595067147650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="65" key="#2557/0.0.1440.900@0.0.1440.900" timestamp="1595067147650" />
+    <state x="279" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596085853498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="279" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1596085853498" />
+    <state width="1419" height="275" key="GridCell.Tab.0.bottom" timestamp="1600932671941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600932671941" />
+    <state width="1419" height="277" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1599548470566" />
+    <state width="1419" height="259" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1598613143024" />
+    <state width="1419" height="275" key="GridCell.Tab.0.center" timestamp="1600932671940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="275" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600932671940" />
+    <state width="1419" height="277" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1599548470565" />
+    <state width="1419" height="259" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1598613143023" />
+    <state width="1419" height="275" key="GridCell.Tab.0.left" timestamp="1600932671938">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="275" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600932671938" />
+    <state width="1419" height="277" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1599548470565" />
+    <state width="1419" height="259" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1598613143021" />
+    <state width="1419" height="275" key="GridCell.Tab.0.right" timestamp="1600932671940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="275" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600932671940" />
+    <state width="1419" height="277" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1599548470566" />
+    <state width="1419" height="259" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1598613143024" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1600352869204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600352869204" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1600352869203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600352869203" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1600352869202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600352869202" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1600352869203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600352869203" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600613967215">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.811@0.23.1440.811" timestamp="1600613967215" />
+    <state x="421" y="39" width="598" height="822" key="find.popup" timestamp="1596085974105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="39" width="598" height="822" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596085974105" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599405517482">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599405517482" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2439.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
