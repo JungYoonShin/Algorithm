@@ -1,0 +1,10 @@
+a, b = map(int, input().split())
+c=a+b
+tuple1=(a,b,c)
+print(tuple1,c)
+
+a, b = map(int, input().split())
+c=a+b
+a,b=b,a
+tuple1=(a,b,c)
+print(tuple1,c)
