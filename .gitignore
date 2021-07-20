@@ -139,14 +139,12 @@ fabric.properties
 .idea/codestream.xml
 
 ### Python ###
-.idea/
 
 # dotenv
 .env
 
 # virtualenv
 .venv
-venv/
 ENV/
 
 # Installer logs
@@ -203,21 +201,10 @@ MANIFEST
 *.spec
 
 # Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
 
 # Unit test / coverage reports
-htmlcov/
-.tox/
 .nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
 *.py,cover
-.hypothesis/
 .pytest_cache/
 cover/
 
@@ -275,11 +262,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
-ENV/
 env.bak/
 venv.bak/
 
@@ -308,6 +290,3 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,pycharm
-*.egg-info/
-.installed.cfg
-*.egg
