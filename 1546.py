@@ -7,4 +7,3 @@ for i in A:
     sum+=i
 average=sum/N
 print(average)
-
