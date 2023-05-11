@@ -3,7 +3,6 @@ import sys
 input = sys.stdin.readline
 
 bingo = dict()
-# MC = [list(map(int, input().split())) for _ in range(5)]
 check = [[0] * 5 for i in range(5)]
 for i in range(5):
   num = list(map(int, input().split()))
