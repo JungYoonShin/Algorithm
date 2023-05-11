@@ -4,6 +4,7 @@ input = sys.stdin.readline
 
 bingo = dict()
 check = [[0] * 5 for i in range(5)]
+
 for i in range(5):
   num = list(map(int, input().split()))
   for j in range(5):
