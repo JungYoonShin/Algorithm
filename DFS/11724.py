@@ -25,3 +25,7 @@ for i in range(1, n+1):
     result += 1
     dfs(graph, i, visited)
 print(result)
+
+
+
+##약간 참고해서 구현, 22~부터는 스스로 구현
