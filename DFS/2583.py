@@ -37,3 +37,6 @@ for i in range(m):
 
 print(result)
 print(*sorted(area))
+
+### 같은 코드여도 PyPy3으로 돌리면 오류남
+### 쉬운듯하면서도 너무 어렵다...(꼭 다시 풀어보기)
