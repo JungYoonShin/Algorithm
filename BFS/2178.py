@@ -12,7 +12,6 @@ dy = [0, 0, -1, 1]
 def bfs(x, y):
   queue = deque([(x, y)])
   while queue:
-    print(queue)
     x, y = queue.popleft()
     for i in range(4):
       move_x = x + dx[i]
