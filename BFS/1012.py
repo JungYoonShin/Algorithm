@@ -17,6 +17,7 @@ def bfs(graph, x, y):
         queue.append((nx, ny))
         graph[nx][ny] = 0
         
+        
 T = int(input())
 for _ in range(T):
   m, n, k = list(map(int, input().split()))
