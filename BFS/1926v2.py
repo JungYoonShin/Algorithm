@@ -26,11 +26,15 @@ def bfs(x, y):
   return sum
 
 
-max_count = 0
-cnt = 0
+result = []
 for i in range(n):
   for j in range(m):
     if graph[i][j] == 1:
-      cnt += 1
-      max_count = max(bfs(i, j), max_count)
-print(cnt, max_count, sep="\n")
+      result.append(bfs(i, j))
+
+if len(result) == 0:
+  print(len(result))
+  print(0)
+else:
+  print(len(result))
+  print(max(result)) 
