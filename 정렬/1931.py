@@ -12,3 +12,5 @@ for start, now_end in timetable:
     end = now_end
     result +=1
 print(result)
+
+### 풀긴 풀었으나 시간초과,,, 결국 혼자서 못 품!! 꼭 기억해두자..
