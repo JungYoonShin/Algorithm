@@ -21,4 +21,4 @@ for i in range(n):
     
 print(result)
 
-## priority = [False] * (n+1)로 하니 런타임에러가 남..
+## priority = [False] * (n+1)로 하니 런타임에러가 남.. 왜 마감일이 n이하라고 착각했을까..? 마감일은 1000일 까지 가능함
