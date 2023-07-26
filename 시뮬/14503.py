@@ -32,8 +32,5 @@ while True:
     else:
       r = r - dx[d]
       c = c - dy[d]
-    
-    
-      
-      
-  
+
+## 코드 참고해서 풀었다...ㅎㅎ
