@@ -16,6 +16,7 @@ def binary_search(start, end):
     cnt = 2
     for i in range(1, n):
       if homes[i] - current >= mid:
+        print(mid, i)
         cnt += 1
         current = homes[i]
     if cnt > c:
