@@ -11,4 +11,6 @@ for i in range(n-1, -1, -1):
   else:
     dp[i] = max(dp[i+1], graph[i][1] + dp[i+graph[i][0]])
 print(dp[0])
-    
+
+#어렵다....다이나믹은 좀 더 많이 풀어봐야것다..
+#참고 래퍼런스:https://jrc-park.tistory.com/119
