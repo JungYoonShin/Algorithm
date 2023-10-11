@@ -54,3 +54,6 @@ map = [list(map(int,input().split())) for _ in range(n)]
 result = 0
 make_wall(0)
 print(result)
+
+###꼭 다시풀어보기, 특히 백트래킹 공부하자!!
+## python3으로 돌리면 시간초과남 
