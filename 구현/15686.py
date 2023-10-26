@@ -35,6 +35,6 @@ def backtracking(i, count):
   backtracking(i+1, count+1)
   map.pop()
   backtracking(i+1, count)
-    
+
 backtracking(0, 0)
 print(result)
